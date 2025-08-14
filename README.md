@@ -12,15 +12,47 @@
 
 ---
 
-<h3 align="center">📊 My Competitive Programming Statistics</h3>
+<h3 align="center">📊 Competitive Programming Statistics</h3>
 
 <div align="center">
   
-<!-- Codeforces Stats -->
-<img src="https://raw.githubusercontent.com/Marqquez/cf-stats/main/output/rating.svg" alt="Codeforces Rating" height="250"/>
+<!-- Codeforces Rating Chart -->
+<a href="https://codeforces.com/profile/Marqquez">
+  <img src="https://cf.leed.at?id=Marqquez" alt="Codeforces Rating" />
+</a>
 
-<!-- AtCoder Stats (replace with your own generated badge if available) -->
+<!-- AtCoder Badge -->
 <br>
-<img src="https://atcoder-badges.now.sh/api/atcoder?name=Marqquez" alt="AtCoder Badge" height="50"/>
+<a href="https://atcoder.jp/users/Marqquez">
+  <img src="https://atcoder-badges.now.sh/api/atcoder?name=Marqquez" alt="AtCoder Badge"/>
+</a>
+
+</div>
+
+---
+
+<h3 align="center">💻 GitHub Statistics</h3>
+
+<div align="center">
+
+<a href="https://github.com/Marqquez">
+  <img src="https://github-readme-stats.vercel.app/api?username=Marqquez&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</a>
+
+<a href="https://github.com/Marqquez">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marqquez&layout=compact&theme=tokyonight" alt="Top Languages" />
+</a>
+
+</div>
+
+---
+
+<h3 align="center">🚀 Languages & Tools</h3>
+
+<div align="center">
+  
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 </div>
