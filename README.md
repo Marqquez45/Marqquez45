@@ -16,11 +16,11 @@
 
 <div align="center">
 
-<a href="https://github.com/Marqquez">
+<a href="https://github.com/Marqquez45">
   <img src="https://github-readme-stats.vercel.app/api?username=Marqquez&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </a>
 <br>
-<a href="https://github.com/Marqquez">
+<a href="https://github.com/Marqquez45">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marqquez&layout=compact&theme=tokyonight" alt="Top Languages" />
 </a>
 
