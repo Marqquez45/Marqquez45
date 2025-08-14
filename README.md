@@ -12,33 +12,14 @@
 
 ---
 
-<h3 align="center">📊 Competitive Programming Statistics</h3>
-
-<div align="center">
-  
-<!-- Codeforces Rating Chart -->
-<a href="https://codeforces.com/profile/Marqquez">
-  <img src="https://cf.leed.at?id=Marqquez" alt="Codeforces Rating" />
-</a>
-
-<!-- AtCoder Badge -->
-<br>
-<a href="https://atcoder.jp/users/Marqquez">
-  <img src="https://atcoder-badges.now.sh/api/atcoder?name=Marqquez" alt="AtCoder Badge"/>
-</a>
-
-</div>
-
----
-
-<h3 align="center">💻 GitHub Statistics</h3>
+<h3 align="center">📊 GitHub Statistics</h3>
 
 <div align="center">
 
 <a href="https://github.com/Marqquez">
   <img src="https://github-readme-stats.vercel.app/api?username=Marqquez&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </a>
-
+<br>
 <a href="https://github.com/Marqquez">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marqquez&layout=compact&theme=tokyonight" alt="Top Languages" />
 </a>
